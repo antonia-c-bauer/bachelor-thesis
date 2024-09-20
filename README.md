@@ -26,6 +26,5 @@ This is a bachelor thesis and legally should be treated as such
 
 ---
 
-thesis: https://faubox.rrze.uni-erlangen.de/getlink/fiCzW5eXjKTywHnChYEqU4u4/Bauer%2C%20Antonia%20-%2022369360%20-Bachelor%20Thesis%20.pdf
-
-appendix: https://faubox.rrze.uni-erlangen.de/getlink/fiGBDTS7y1YymjnxRGrnH3oT/Bauer%2C%20Antonia%20-%2022369360%20-%20Appendix%20.pdf
+thesis:
+appendix: 
